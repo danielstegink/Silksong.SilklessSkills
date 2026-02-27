@@ -1,0 +1,18 @@
+{
+	"TAUNT_NAME": "Taunt",
+	"TAUNT_DESC": "Should Taunt be free?",
+	"HARPOON_NAME": "Clawline",
+	"HARPOON_DESC": "Should Clawline be free?",
+	"SUPER_JUMP_NAME": "Silk Soar",
+	"SUPER_JUMP_DESC": "Should Silk Soar be free?",
+	"NEEDOLIN_NAME": "Needolin",
+	"NEEDOLIN_DESC": "Should Needolin be free?",
+	"SPEED_NAME": "Silkspeed Anklets",
+	"SPEED_DESC": "Should Silkspeed Anklets be free?",
+	"GUN_NAME": "Silkshot",
+	"GUN_DESC": "Should Silkshot be free?",
+	"TRAP_NAME": "Snare Setter",
+	"TRAP_DESC": "Should Snare Setter be free?",
+	"LANTERN_NAME": "Wispfire Lantern",
+	"LANTERN_DESC": "Should Wispfire Lantern be free?"
+}
